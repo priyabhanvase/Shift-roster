@@ -1,0 +1,107 @@
+@font-face{
+  font-family:'Montserrat-Regular';
+  src: url("/fonts/Montserrat-Regular.ttf");
+}
+
+
+.formLable{
+	font-family:'Montserrat-Regular';
+	font-size: 16px;
+	color: #333333;
+
+}
+.inputBox{
+	border-radius: 3px;
+	border: 1px solid #979797;
+	height: 40px;
+}
+.inputIcon{
+	
+	height: 40px;
+	border: 1px solid #979797;
+	font-size: 18px;
+
+}
+
+.inputBox[placeholder]{
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #333333;
+
+}
+.clear{
+	height: 40px;
+	background: none;
+	border: 1px solid #33b5e5;
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #33b5e5;
+}
+.clear:hover{
+	color: #33b5e5;
+
+}
+.submit{
+	height: 40px;
+	background-color: #33b5e5;
+	color: #ffffff;
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+}
+.submit:hover{
+	color: #ffffff;
+}
+.breadcrumb {
+	border-radius: 20px;
+	height: 40px;
+}
+.breadcrumb li a{
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #ff4444;
+}
+.breadcrumb li{
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #666666;
+}
+
+.table{
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #333333;
+
+}
+.table thead{
+	background-color: #3e4551;
+	color: #f2f2f2;
+}
+
+.table th{
+	text-align: center;
+}
+
+.table td{
+	color: #333333;
+	text-align: center;
+}
+
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #f2f2f2;
+}
+
+.search{
+	border-radius: 20px;
+	height: 40px;
+}
+.search[placeholder]{
+	font-family:'Montserrat-Regular';
+	font-size: 14px;
+	color: #333333;
+	padding-left: 35px;
+	
+}
+
+
+

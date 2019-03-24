@@ -1,0 +1,13 @@
+.ReactTable .rt-th{
+	background-color: #3e4551 !important;
+	color: #fff;
+	font-family: Montserrat-Regular;
+	font-size: 14px;
+}
+
+.ReactTable .rt-td{
+	color: #333;
+	font-family: Montserrat-Regular;
+	font-size: 14px;
+}
+
